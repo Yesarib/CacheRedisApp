@@ -9,10 +9,6 @@ First, clone this project to your machine:
 ```bash
 git clone https://github.com/Yesarib/CacheRedisApp.git 
 ```
-Navigate to the project directory:
-```
-cd CacheRedisApp
-```
 
 When you run Redis server, edit the following fields.
 ```
